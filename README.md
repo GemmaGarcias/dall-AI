@@ -1,2 +1,2 @@
 # dall-AI
-Chatpgt AI api generate images
+Chatgpt AI api generate images
